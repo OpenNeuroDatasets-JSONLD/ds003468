@@ -1,0 +1,10 @@
+{   "BIDSVersion": "1.0.1",
+    "Name": "IQSEC2_fcMRI",
+    "Authors": [
+        "Daniela Lichtman",
+        "Itamar Kahn"
+    ],
+    "Funding": [
+        ""
+    ]
+}
