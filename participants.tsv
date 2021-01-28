@@ -1,4 +1,4 @@
-Animal no.	Genotype	Sex	Weight (fcMRI Day 1)
+Participants_id	Genotype	Sex	Weight (fcMRI Day 1)
 			
 AL011	WT	M	26.6
 AL020	WT	M	26.1
@@ -26,3 +26,4 @@ AL031	IQSEC2	M	26.5
 AL036	IQSEC2	M	27.6
 AL037	IQSEC2	M	27.6
 AL040	IQSEC2	M	28
+
