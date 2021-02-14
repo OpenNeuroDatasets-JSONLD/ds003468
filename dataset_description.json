@@ -1,6 +1,6 @@
 {
     "BIDSVersion": "1.0.1",
-    "Name": "IQSEC2_fMRI",
+    "Name": "IQSEC2_sMRI_fMRI",
     "Authors": [
         "Daniela Lichtman",
         "Itamar Kahn"
