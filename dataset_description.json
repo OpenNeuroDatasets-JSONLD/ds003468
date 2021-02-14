@@ -1,5 +1,6 @@
-{   "BIDSVersion": "1.0.1",
-    "Name": "IQSEC2_fcMRI",
+{
+    "BIDSVersion": "1.0.1",
+    "Name": "IQSEC2_fMRI",
     "Authors": [
         "Daniela Lichtman",
         "Itamar Kahn"
@@ -10,6 +11,6 @@
     "DatasetDOI": "",
     "License": "CC0",
     "ReferencesAndLinks": [],
-    "Acknowledgements": "We thank Technion’s Biological Core Facilities and Edith Suss-Toby for her assistance with MRI, and the Technion Preclinical Research Authority for assistance with animal care.",
+    "Acknowledgements": "We thank Technion\u2019s Biological Core Facilities and Edith Suss-Toby for her assistance with MRI, and the Technion Preclinical Research Authority for assistance with animal care.",
     "HowToAcknowledge": "Please cite the paper: "
 }
